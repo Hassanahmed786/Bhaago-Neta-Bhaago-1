@@ -7,8 +7,8 @@ import { getDeathQuip, OBSTACLE_LABEL, OBSTACLE_EMOJI } from "../game/deathQuips
 // Map characterId → image in public/politicians/
 // Drop your images there named exactly as below.
 const POLITICIAN_IMAGES: Record<CharacterId, string> = {
-  0: "/politicians/0.jpg",  // Modi
-  1: "/politicians/1.jpg",  // Trump
+  0: "/politicians/0.png",  // Modi
+  1: "/politicians/1.png",  // Trump
   2: "/politicians/2.jpg",  // Rahul
   3: "/politicians/3.jpg",  // Kejriwal
   4: "/politicians/4.jpg",  // Biden

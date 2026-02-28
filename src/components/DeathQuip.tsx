@@ -219,7 +219,7 @@ export const DeathQuip: React.FC<Props> = ({ killerType, characterId, onSkip }) 
             position:       "relative",
             zIndex:         2,
           }}>
-            <span>POLITICIAN SURFERS © 2026</span>
+            <span>BHAAGO NETA BHAAGO © 2026</span>
             <span style={{ color: "#c4b5fd" }}>CLICK / TAP TO SKIP ▶</span>
           </div>
         </div>

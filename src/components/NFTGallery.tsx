@@ -239,7 +239,7 @@ export const NFTGallery: React.FC = () => {
             fontFamily: "Rajdhani,sans-serif", fontSize: "0.8rem",
             color: "#a855f7", fontWeight: 700, letterSpacing: "0.1em", marginTop: "0.15rem",
           }}>
-            POLITICIAN SURFERS · ON-CHAIN SVG
+            BHAAGO NETA BHAAGO · ON-CHAIN SVG
           </div>
         </div>
 

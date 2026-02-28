@@ -144,14 +144,14 @@ export const MenuScreen: React.FC = () => {
 
         {/* Title */}
         <div style={{ textAlign: "center", lineHeight: 1.5 }}>
-          <div style={{ fontFamily: "'Press Start 2P',monospace", fontSize: "clamp(1.5rem,5vw,3rem)", color: "#836EF9", textShadow: "0 0 20px #836EF9,0 0 40px #836EF9" }}>
-            POLITICIAN
+          <div style={{ fontFamily: "'Press Start 2P',monospace", fontSize: "clamp(1.2rem,4vw,2.4rem)", color: "#836EF9", textShadow: "0 0 20px #836EF9,0 0 40px #836EF9" }}>
+            BHAAGO NETA
           </div>
-          <div style={{ fontFamily: "'Press Start 2P',monospace", fontSize: "clamp(1.5rem,5vw,3rem)", color: "#fff", textShadow: "0 0 20px #fff,0 0 40px #836EF9" }}>
-            SURFERS
+          <div style={{ fontFamily: "'Press Start 2P',monospace", fontSize: "clamp(1.2rem,4vw,2.4rem)", color: "#fff", textShadow: "0 0 20px #fff,0 0 40px #836EF9" }}>
+            BHAAGO
           </div>
-          <div style={{ fontFamily: "Rajdhani,sans-serif", fontSize: "1rem", color: "#a855f7", fontWeight: 600, letterSpacing: "0.2em", marginTop: "0.5rem" }}>
-            RUN · BRIBE · SURVIVE
+          <div style={{ fontFamily: "Rajdhani,sans-serif", fontSize: "1.05rem", color: "#ffd700", fontWeight: 700, letterSpacing: "0.12em", marginTop: "0.5rem", textShadow: "0 0 8px rgba(255,215,0,0.5)" }}>
+            Scandals se Bhago · Monad pe Daago
           </div>
         </div>
 
